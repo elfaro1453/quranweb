@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: fontArab;
+  src: url('https://fahru.idn.sch.id/LPMQ.ttf');
+  font-display: swap;
+}
+
+.quran-ayah {
+  font-family: fontArab, Arial, sans-serif;
+  line-height: 2 !important;
+}
