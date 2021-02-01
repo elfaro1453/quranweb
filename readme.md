@@ -45,7 +45,7 @@ Optimisasi [TailWindCSS](https://tailwindcss.com/) seperti purge bermanfaat untu
 
 File output dapat secara otomatis dikompresi menggunakan CompressionPlugin, plugin ini akan menghasilkan 2 file baru, yang telah dikompresi dengan algoritma Gzip dan yang telah dikompresi Brotli.
 
-### Itegrasi ESLint
+### Integrasi ESLint
 
 Integrasi Eslint memudahkan developer untuk menulis kode sesuai dengan format aturan yang direkomendasikan oleh komunitas.
 
